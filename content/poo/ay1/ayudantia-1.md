@@ -1,6 +1,6 @@
-<h1 >Ayudantía 1  - POO Invierno</h1>
-<h5 >Profesor: Cristhian Rabi<br>Ayudante: Paulo Araya</h5>
-<h6 >27 de Julio de 2026</h6>
+<h1 align='center'>Ayudantía 1  - POO Invierno</h1>
+<h5 align='center'>Profesor: Cristhian Rabi<br>  Ayudante: Paulo Araya</h5>
+<h6 align='center'>27 de Julio de 2026</h6>
 
 Se tienen los archivos `salaX.txt`, que contiene un mapa de los asientos de una sala de cine, donde **0** es un asiento vacío y **1** es un asiento ocupado. Los valores están separados por un espacio.
 
@@ -10,17 +10,13 @@ Se tienen los archivos `salaX.txt`, que contiene un mapa de los asientos de una 
 1 1 1 0 0 0 0
 0 1 0 1 0 0 0
 ```
-
 Escribe un programa en Java que permita elegir uno de los mapas y reporte los siguientes datos:
 
 1. Cantidad y porcentaje de asientos ocupados.
 2. La fila con mayor cantidad de asientos desocupados.
 3. Buscar cualquier fila con N asientos desocupados consecutivos.
-
 > Por ejemplo, si pido una fila con 4 asientos desocupados, debería mostrar la fila 3 del ejemplo, la fila 4 no son consecutivos así que no se muestra.
-
 4. Mostrar el mapa completo de forma estética, que no se pueda ver ningún numero.
-
 > Puedes mostrarlo como tú decidas, pero debe existir una diferencia notable entre vacío, ocupado y elegido.
 
 Finalmente, se debe preguntar si se quiere reservar un asiento. Esto debe verse reflejado en el .txt elegido inicialmente y mostrado para confirmar antes de ser escrito.
@@ -34,7 +30,7 @@ Finalmente, se debe preguntar si se quiere reservar un asiento. Esto debe verse 
 
 ```text title:"Ejemplo de salida"
 === Sistema de Reserva de Asientos ===
-Salas disponibles: sala1.txt, sala2.txt, sala3.txt
+Salas disponibles: sala1.txt, sala2.txt, sala3.txt 
 Ingrese el numero de sala a cargar: 1
 
 Cargando sala1.txt...
