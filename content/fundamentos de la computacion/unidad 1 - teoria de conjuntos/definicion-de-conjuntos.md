@@ -8,17 +8,6 @@ Creation date: "2026-01-25T03:35:08Z"
 Links:
     - teoria-de-conjuntos
 ---
-# Definición de Conjuntos   
-Conjuntos, subconjuntos, cardinalidad y conjuntos potencia.   
-### Resumen:   
-Son una coleccion de elementos $\infty$ o no.
-Sin orden, ni repeticiones.   
-Cardinalidad = len(set), solo cuentan los objetos "grandes"
-Existe un conjunto vacio, con len 0.   
-Un subconjunto tiene que estar en el conjunto grande, con $\subseteq$.
-Conjunto vacio siempre es subconjunto.   
-Conjunto potencia son todos los subconjuntos posibles.      
-   
 # Conjuntos / Sets   
 
 Un conjunto es una colección de objetos llamados **elementos**. 
@@ -33,7 +22,7 @@ $$
 \{a,b,b,a,c\} = \{a,b,c\}
 $$
 
-- No importa el orden.   
+- No importa el orden.
 $$
 \{3,2,1\} = \{1,2,3\}
 $$

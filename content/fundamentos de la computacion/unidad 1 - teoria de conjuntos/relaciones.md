@@ -13,7 +13,7 @@ Es una manera de describir cuales elementos están conectados entre dos conjunto
 Siendo $A$ y $B$ conjuntos. 
 Una relación binaria desde A a B es cualquier subconjunto $R\subseteq A\times B$ 
 Si $a,b\in R, \implies aRb$.
-#### Ejemplo: La relación $\text{Menor-A}$ para los números reales:
+#### Ejemplo: La relación $\text{menor a}$ para los números reales:
 Se define la relación $L$ desde $R$ a $R$ como lo siguiente:
 $$
 \forall x,y : xLy \Longleftrightarrow x < y

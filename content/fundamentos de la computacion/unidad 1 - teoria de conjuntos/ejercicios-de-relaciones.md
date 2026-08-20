@@ -48,4 +48,3 @@ $$
 R_3 = \{(2,2), (4,2), (6,2), (8,2), (4,4), (8,4), (6,6), (8,8)\}
 \end{aligned}
 $$
-Reflexiva, Antisimetrica y Transitiva

@@ -18,11 +18,11 @@ Es una tabla donde se define cada salida de la función de transición, es decir
 
 | Estados | .25   | .50   |
 | ------- | ----- | ----- |
-| q_0     | $q_1$ | $q_2$ |
-| q_1     | $q_2$ | $q_3$ |
-| q_2     | $q_3$ | $q_4$ |
-| q_3     | $q_4$ | $q_4$ |
-| q_4     | $q_1$ | $q_2$ |
+| $q_0$     | $q_1$ | $q_2$ |
+| $q_1$     | $q_2$ | $q_3$ |
+| $q_2$     | $q_3$ | $q_4$ |
+| $q_3$     | $q_4$ | $q_4$ |
+| $q_4$     | $q_1$ | $q_2$ |
 ### Ejercicios:
 1. Diseñe un AFD que acepta cadenas del alfabeto $\Sigma = \{ 0,1 \}$ que terminen en "01".
 $$

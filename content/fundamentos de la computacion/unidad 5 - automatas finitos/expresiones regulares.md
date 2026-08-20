@@ -7,7 +7,7 @@ $$
 \alpha \rightarrow L= \{\alpha\}\\
 \end{aligned}
 $$
-Lambda es una cadena vacía!
+> El simbolo lambda $\lambda$ se usa principalmente para definir una cadena vacia, mientras que el símbolo $\alpha$ se usa para definir cualquier cadena.
 ## Operadores
 $\mid$ or
 +, union
@@ -19,18 +19,19 @@ $L(A*)$ es igual a $(L(A))*$
 $()$, parentesis de toda la vida
 $L((A)) = L(A)$
 Su prioridad es igual a su orden de escritura, es decir, (), * , $\cdot$, +, |
-### Propiedades$
+### Propiedades:
+
 Sea una expresión regular cualquiera:
-1. $\alpha \lambda = \alpha$
+1. $\alpha \cdot \lambda = \alpha$
 2. $\emptyset * = \lambda$
 3. $\alpha * = \lambda + \alpha\cdot \alpha*$
 #### Union:
 $A(\alpha) = (Q, \Sigma, \delta, q_0, F),  A(\beta) = (Q, \Sigma, \delta, q_0, F)$ 
 1. La nueva Q, sera la union de los estados, pero quitando los estados iniciales de cada automata.
-2. la funcion delta seran todos los estados
-3. los estados finales va a ser la union de ambos solo si los estados iniciales son parte de los estados finales de cada uno.
-4. Si no, sera la union de los estados finales menos los estados finales, agregando el estado inicial de la union creada. 
-## Ejemplo:
+2. La funcion delta seran todos los estados.
+3. Los estados finales va a ser la unión de ambos solo si los estados iniciales son parte de los estados finales de cada uno.
+4. Si no, sera la unión de los estados finales menos los estados finales, agregando el estado inicial de la unión creada. 
+#### Como pasar una expresión regular a un autómata:
 1. $A(A\mid B)$
 	Podemos ver que existe una concatenacion y un operador or.
 	Entonces, primero solo acepta A.

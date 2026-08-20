@@ -17,14 +17,16 @@ Links:
     - Fundamentos de la Computacion
     - motelpaso
 ---
-# <div align="center">Teoria de Conjuntos</div>   
+<h1 align="center">Teoria de Conjuntos</h1>   
 
-^c0c34a
+### Clases:
 
 [[ definicion-de-conjuntos | Definición de Conjuntos ]]    
 [[ producto-cartesiano-y-par-ordenado | Producto Cartesiano y Par Ordenado ]]    
 [[ operaciones-de-un-conjunto | Operaciones de un Conjunto ]]    
-[[ demostraciones | Demostraciones ]]    
+[[ demostraciones|Demostraciones ]]
+[[ejemplos-demostraciones|Ejemplos de demostraciones]]
+[[leyes-basicas|Leyes Basicas]]
 [[ relaciones | Relaciones ]]    
 
 

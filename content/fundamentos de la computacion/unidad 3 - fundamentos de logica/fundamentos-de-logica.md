@@ -10,8 +10,13 @@ Links:
     - Fundamentos de la Computacion
     - motelpaso
 ---
-# Fundamentos de Logica   
+<h1 align="center">Fundamentos de logica</h1>   
+
+## Clases:
+
 [[ logica-proposicional | Logica Proposicional ]]    
+[[operadores-logicos|Tablas de Verdad]]
+[[leyes de la logica|Leyes Principales]]
 
 
 

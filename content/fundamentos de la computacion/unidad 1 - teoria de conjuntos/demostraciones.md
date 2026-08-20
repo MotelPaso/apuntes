@@ -45,8 +45,7 @@ $$
 $$
 > Si la relación entre los conjuntos es un $=$, se tiene que realizar el trabajo dos veces, una empezando por la izquierda, y otra empezando por la derecha, el procedimiento es igual.   
 
-#### Tipos de demostraciones:   
-##### Demostración Directa:   
+
 
 
 
