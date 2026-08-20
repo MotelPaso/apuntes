@@ -8,8 +8,7 @@
 [[automatas-finitos |Autómatas Finitos]]
 [[automatas-no-finitos|Autómatas No Finitos]]
 
-### Pruebas:   
-[[ pp1 | PP1 ]]    
+
    
 
 
